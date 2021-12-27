@@ -1,0 +1,1 @@
+git pull is a Git command used to update the local version of a repository from a remote. ... By default, git pull does two things. Updates the current local working branch (currently checked out branch) Updates the remote tracking branches for all other branches.27-Jan-2020
